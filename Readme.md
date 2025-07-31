@@ -208,31 +208,31 @@
 
 ### Task Manager
 
-![Task](project_images/task.png)
+![Task](project_images/task_light.png)
 
 ---
 
 ### Calendar Integration
 
-![Calendar](project_images/calendar.png)
+![Calendar](project_images/calendar_light.png)
 
 ---
 
 ### Pomodoro Timer
 
-![Pomodoro](project_images/pomodoro.png)
-
----
-
-### Stats Dashboard
-
-![Stats](project_images/stats.png)
+![Pomodoro](project_images/pomodoro_light.png)
 
 ---
 
 ### Settings (Theme Toggle)
 
-![Settings](project_images/settings.png)
+![Settings](project_images/settings_dark.png)
+
+---
+
+### Stats Dashboard
+
+![Stats](project_images/stats_dark.png)
 
 ---
 
