@@ -112,12 +112,15 @@
 
 </pre>
 
+---
+
 ## Setup Instructions
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/your-username/studyverse.git
-````
+   ```
 
 2. **Navigate to the project directory**
 
@@ -134,13 +137,15 @@
 
 4. **Create a `.env` file in `/server`**
 
+   Inside the `server` directory, create a `.env` file and add:
+
    ```env
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
    PORT=5000
    ```
 
-5. **Run the backend**
+5. **Run the backend server**
 
    ```bash
    npm run dev
@@ -154,8 +159,9 @@
    npm run dev
    ```
 
-7. **Open in browser**
-   Visit `http://localhost:5173` to view the application.
+7. **Open the application in browser**
+
+   Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
 
@@ -198,29 +204,43 @@
 **Dark Mode**
 ![Dashboard Dark](project_images/dashboard_dark.png)
 
+---
+
 ### Task Manager
 
 ![Task](project_images/task.png)
+
+---
 
 ### Calendar Integration
 
 ![Calendar](project_images/calendar.png)
 
+---
+
 ### Pomodoro Timer
 
 ![Pomodoro](project_images/pomodoro.png)
+
+---
 
 ### Stats Dashboard
 
 ![Stats](project_images/stats.png)
 
+---
+
 ### Settings (Theme Toggle)
 
 ![Settings](project_images/settings.png)
 
+---
+
 ### Login Page
 
 ![Login](project_images/login.png)
+
+
 
 
 
